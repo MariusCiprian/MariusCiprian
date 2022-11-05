@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Marius !    
 ####  Nice to meet ya 😊. 
 
-I'm a Entry-level Python & Web Developer .
+I'm a Electrical Engineer who is passionate about programming and how to improve to be a better developer everyday.
 
 👀 I love programming and learning new features.
 
