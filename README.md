@@ -7,11 +7,7 @@ I'm a Electrical Engineer who is passionate about programming and how to improve
 
 👔 I'm interested in Web and Python projects.
 
-🌱 I’m currently learning Machine Learning.
-
 🔭 I’m currently working at some personal projects.
-
-⚡ I also have knwoledges in HTML, CSS, JavaScript,Python, Manual Testing.
 
 📫 How to reach me: jalbamariusciprian@yahoo.com
 
@@ -70,6 +66,4 @@ I'm a Electrical Engineer who is passionate about programming and how to improve
   
 
 <br/>  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MariusCiprian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marius-ciprian-jalba-62a260138/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mariusjalba1998)  
 
