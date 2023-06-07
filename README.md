@@ -5,7 +5,7 @@ I'm a Electrical Engineer who is passionate about programming and how to improve
 
 👀 I love programming and learning new features.
 
-👔 I'm interested in Web and Python projects.
+👔 I'm interested in Web projects.
 
 🔭 I’m currently working at some personal projects.
 
