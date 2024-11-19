@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Marius !    
 ####  Nice to meet ya 😊. 
 
-Welcome to my GitHub profile! I'm a passionate and aspiring DevOps enthusiast, dedicated to continuous learning and exploration in the field of IT. Currently, I work as a Junior Service Desk Engineer, where I am gaining valuable experience in infrastructure. My goal is to transition into a DevOps role, contributing to the development and implementation of modern software development and operations practices.
+Welcome to my GitHub profile! I'm a passionate and aspiring DevOps enthusiast, dedicated to continuous learning and exploration in the field of IT. Currently, I work as a Junior Service Desk Analyst, where I am gaining valuable experience in infrastructure. My goal is to transition into a DevOps role, contributing to the development and implementation of modern software development and operations practices.
 
 👀 I love programming and learning new technologies.
 
